@@ -3,7 +3,7 @@
 #include "constants.h"
 using namespace std;
 
-ModelInit Model1(4, 12, 9, WB::W, WB::B);
+ModelInit Model1(3, 12, 9, WB::W, WB::B);
 
 void setup()
 {
