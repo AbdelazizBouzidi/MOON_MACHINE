@@ -21,5 +21,6 @@ private:
 
 public:
     ModelInit(int inputSize, int hiddenLayerSize, int outputSize, vector<double> W, vector<double> B);
+    ModelInit() {}
     int predict(float R, float G, float B);
 };

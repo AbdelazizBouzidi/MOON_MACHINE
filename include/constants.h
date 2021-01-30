@@ -176,4 +176,8 @@ namespace WB
     };
 
 } // namespace WB
+namespace pins
+{
+    const int interruptPin = 2;
+}
 #endif
